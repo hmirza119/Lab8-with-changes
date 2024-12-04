@@ -1,0 +1,47 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #4a74b2;
+    color:rgb(36, 10, 41);
+}
+
+section{
+    padding:15px;
+    margin:10px;
+}
+
+.image{
+    border:3px solid black;
+    width:200px;
+    height:200px;
+}
+
+h1{
+    color:black;
+    font-size:35px;
+    text-align:center;
+}
+
+h2{
+    color:black;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+ul, ol {
+    margin-left: 15px;
+    font-size:25px;
+}
+
+ul li, ol li{
+    color:rgb(8, 24, 20);
+    padding-left: 1.5rem;
+    font-size: 25px;
+}
+
+p{
+    margin: 0.5rem 0;
+    font-size:25px;
+}
